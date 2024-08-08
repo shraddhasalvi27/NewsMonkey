@@ -102,7 +102,7 @@
 // export default News;
 
 import React, { useEffect, useState } from "react";
-import NewsItem from "./NewsItem";
+import NewsItem from "./Newsitem";
 import Spinner from "./Spinner";
 import PropTypes from "prop-types";
 import InfiniteScroll from "react-infinite-scroll-component";
